@@ -1,2 +1,6 @@
 # hello-world
-I'm learning Git
+
+Hi guys,
+
+I'm a programming student and I'm learning Git
+that's all.
